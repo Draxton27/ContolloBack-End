@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PmBVfeaP7SU=",
+  "dgSpecHash": "ORBR67/PfFo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\danie\\Desktop\\back-endTechnicalTest\\TechincalTestApi.csproj",
+  "projectFilePath": "C:\\Users\\danie\\Desktop\\ContolloBack-End\\TechincalTestApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danie\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
