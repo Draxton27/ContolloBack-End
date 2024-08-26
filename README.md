@@ -7,7 +7,6 @@ This is the back-end application for the Contollo project, built using ASP.NET C
 Before you begin, ensure you have the following installed on your machine:
 
 - **.NET SDK** (v6.0 or higher) - [Download .NET SDK](https://dotnet.microsoft.com/download)
-- **MongoDB** (running locally or in a cloud environment) - [Download MongoDB](https://www.mongodb.com/try/download/community)
 - **Node.js** - [Download Node.js](https://nodejs.org/)
 - **Git** - [Download Git](https://git-scm.com/)
 
